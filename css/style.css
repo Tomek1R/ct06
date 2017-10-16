@@ -34,38 +34,29 @@ font-family:"Comic Sans MS", "Tahoma";
 .phone {
     margin-right: 20px;
 }
-.phone p{   
-}
 .phone p img{
     width: 6px;
     margin-top: -4px;
-}
-.email {
 }
 .email p {
     font-size: 13px;
     margin-top: 10px;
 }
 .email p img{
-    width: 13px;
-        
+    width: 13px;   
 } 
-
 .top_menu {
     padding-top: 15px;
 }
-
 .top_menu ul {
     list-style:none;
     margin:0;
     padding:0;
 }
-
 .top_menu ul li {
     display: inline-block;
     margin-left: 20px;
 }
-
 .top_menu ul li a {
     display:block;
     text-decoration:none;
@@ -75,16 +66,11 @@ font-family:"Comic Sans MS", "Tahoma";
 .top_menu ul li a:hover {
     color:#444;
 }
-
 .header_wrapper {
     background: #f5f6f1;
     padding: 40px 0;
     margin-bottom: 40px;
 }
-
-.header {
-}
-
 .logo {
     margin-right: 238px;
 }
@@ -99,7 +85,6 @@ font-family:"Comic Sans MS", "Tahoma";
     font-size: 12px;
     margin: 0;
 }
-
 .logo_icon img {
     padding-top: 0px;
     padding-left: 10px;
@@ -129,9 +114,6 @@ font-family:"Comic Sans MS", "Tahoma";
     color:#e65753;
     font-weight: bold;
 }
-
-.cart {
-}
 .cart_text {
     margin-right: 10px;
 }
@@ -151,10 +133,6 @@ font-family:"Comic Sans MS", "Tahoma";
 .slider_wrapper {
     margin-bottom: 40px;
 }
-
-.slider {
-}
-
 .slider_back {
     position: relative;
 }
@@ -179,7 +157,6 @@ font-family:"Comic Sans MS", "Tahoma";
     font-size:60px;
     font-weight: bold;
 }
-
 .slider_image {
     position:absolute;
     top:170px;
@@ -189,14 +166,9 @@ font-family:"Comic Sans MS", "Tahoma";
   width:365px;  
   
 }
-
 .services_wrapper {
     margin-bottom: 40px;
 }
-
-.services {
-}
-
 .service {
     background: #f5f6f1;
     margin-right: 30px;
@@ -230,7 +202,6 @@ font-family:"Comic Sans MS", "Tahoma";
     font-weight: bold;
     
 }
-
 .portfolio_one_wrapper {
     background: #f8f8f8;
     padding: 40px 0;
@@ -238,11 +209,9 @@ font-family:"Comic Sans MS", "Tahoma";
     border-top: 1px solid #eee;
     margin: 40px 0;
 }
-
 .portfolio_one {
     background: #f8f8f8; 
 }
-
 .heading_one {
     position: relative;
     height: 3px;
@@ -299,10 +268,6 @@ font-family:"Comic Sans MS", "Tahoma";
  padding: 40px 0;
  margin: 0px 0 40px 0;
 }
-
-.portfolio_two {
-}
-
 .heading_two {
     position: relative;
     height: 3px;
@@ -310,7 +275,6 @@ font-family:"Comic Sans MS", "Tahoma";
     line-height: 8px;
     margin-bottom: 46px;
 }
-
 .heading_two h1 {
     font-family: sans-serif;
     position: absolute;
@@ -320,39 +284,29 @@ font-family:"Comic Sans MS", "Tahoma";
     top: -28px;
     padding: 5px 15px;
 }
-
 .heading_two img {
     width: 100%;
     height: 1px;
 }
-
 .two_wrapper {
     margin-right: 20px;
     width: 275px;
 }
-
 .two_wrapper:last-child {
     margin-right: 0px;
     width: 275px;
 }
-
 .two_wrapper img {
     width: 100%;
 }
-
-.two {
-}
-
 .two p {
     font-family: fantasy;
     margin: 0;
     padding: 10px 0;
    }
-
 .two h4 {
    margin: 0; 
 }
-
 .two p a {
     text-decoration: none;
     background-color: #463f3a;
@@ -364,7 +318,6 @@ font-family:"Comic Sans MS", "Tahoma";
     font-size: 23px;
     font-weight: bold;
 }
-
 .portfolio_three_wrapper {
     background: #f8f8f8;
     padding: 40px 0;
@@ -372,10 +325,6 @@ font-family:"Comic Sans MS", "Tahoma";
     border-top: 1px solid #eee;
     margin: 40px 0;
 }
-
-.portfolio_three {
-}
-
 .heading_three {
     position: relative;
     height: 3px;
@@ -383,7 +332,6 @@ font-family:"Comic Sans MS", "Tahoma";
     line-height: 8px;
     margin-bottom: 46px;
 }
-
 .heading_three h1 {
     font-family: sans-serif;
     position: absolute;
@@ -393,39 +341,29 @@ font-family:"Comic Sans MS", "Tahoma";
     top: -28px;
     padding: 5px 15px;
 }
-
 .heading_three img {
     width: 100%;
     height: 1px;
 }
-
 .three_wrapper {
     margin-right: 20px;
     width: 275px;
 }
-
 .three_wrapper:last-child {
     margin-right: 0px;
     width: 275px;
 }
-
 .three_wrapper img {
     width: 100%;
 }
-
-.three {
-}
-
 .three p {
     font-family: fantasy;
     margin: 0;
     padding: 10px 0;
    }
-
 .three h4 {
    margin: 0; 
 }
-
 .three p a {
     text-decoration: none;
     background-color: #463f3a;
@@ -437,17 +375,13 @@ font-family:"Comic Sans MS", "Tahoma";
     font-size: 23px;
     font-weight: bold;
 }
-
 .blog_wrapper {
     padding: 40px 0;
     margin: 40px 0;
 }
-
 .blog {
     background: #f8f8f8; 
 }
-
-
 .four_wrapper {
     width: 370px;
     margin-right: 20px;
@@ -458,9 +392,6 @@ font-family:"Comic Sans MS", "Tahoma";
 }
 .four_wrapper img {
     width: 100%
-}
-.four {
-
 }
 .four h4{
     font-family: fantasy;
@@ -476,14 +407,9 @@ font-family:"Comic Sans MS", "Tahoma";
  text-decoration: none;
  font-weight: bold;   
 }
-
 .footer_top_wrapper {
     background: #f2f2f0;
 }
-
-.footer_top {
-}
-
 .footer_top h1{
     margin: 0;
     font-family: sans-serif;
@@ -491,35 +417,26 @@ font-family:"Comic Sans MS", "Tahoma";
     font-size: 35px;
     padding-top: 35px;
 }
-
 .footer_top p{
     margin: 0;
     font-family: italy;
     color: #463f3a;
     padding: 0px 0 25px;
 }
-
 .footer_top p a{
     color: #f8605d;
     text-decoration: none;
 }
-
 .footer_middle_wrapper {
     background: #463f3a;
     padding: 40px 0;
   
 }
-
-.footer_middle {
-}
-
 .f_logo {
     margin-right: 238px;
 }
-
 .f_logo_text { 
 }
-
 .f_logo_text h1 {
     font-family: fantasy;
     font-size: 37px;
@@ -530,11 +447,6 @@ font-family:"Comic Sans MS", "Tahoma";
     font-size: 12px;
     margin: 0;
 }
-
-.f_logo_icon {
-    
-}
-
 .f_logo_icon img {
     padding-top: 0px;
     padding-left: 10px;
@@ -553,14 +465,12 @@ font-family:"Comic Sans MS", "Tahoma";
     display: inline-block;
     margin-left: 10px;
 }
-
 .f_navigation ul li a {
     display: block;
     color:#fff;
     text-decoration: none;
     font-weight: bold;
 }
-
 .f_navigation ul li a:hover{
     color:#eee;
 }
@@ -579,10 +489,6 @@ font-family:"Comic Sans MS", "Tahoma";
     padding: 15px 0;
     background: #eeeeee;
 }
-.footer_bottom {
-}
-.social {
-}
 .social ul {
     list-style: none;
     padding: 0;
@@ -591,12 +497,6 @@ font-family:"Comic Sans MS", "Tahoma";
 .social ul li {
     display: inline-block;
     margin-right: 12px;
-}
-.social ul li a {
-}
-.social ul li a:hover{
-}
-.copyright {
 }
 .copyright p {
     margin:0;
